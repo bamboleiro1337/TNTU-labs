@@ -22,7 +22,7 @@ for i in message:
 print('Message: ', message)
 print('Encrypted message: ', encrypted_m)
 
-# A little decryptor
+#decryptor
 # def decryption(encrypted_m, shift):
 #     decrypted_m = ""
 #     for j in encrypted_m:
